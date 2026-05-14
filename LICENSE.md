@@ -1,4 +1,4 @@
-# 
+# smart raydium trading bot Plugin | blockchain-scanning + multi-chain-support is the best raydium trading bot, featuring blockchain-scanning and multi-chain-support. Smart, fast,
 
 
 
